@@ -58,7 +58,7 @@ Distributed coordination, simulated physics, and secure comms for multi-agent dr
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Dixon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat-dixon-425673257/?trk=opento_sprofile_topcard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Dixon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat-dixon-425673257/?trk=opento_sprofile_topcard)      
 Email given upon request
 
 ---
