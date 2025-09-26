@@ -19,14 +19,12 @@ I build **modular tools, simulations, and games** — focused on **C#, C++, and 
 ## 🚀 Featured Projects
 
 ### **1️⃣ PFD Sim**  
-Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
-![PFD Sim](https://github.com/user-attachments/assets/c4464538-59c9-41b7-b579-880a6a74a26b)
+Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.
 **Status:** 🔧 Active  
 [Release](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
 ### **2️⃣ Tetris (C++)**  
-Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
-![Tetris](https://github.com/user-attachments/assets/d16694b5-cc0a-452e-9cd0-7fad4964c4f3)  
+Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.
 **Status:** ✅ Complete  
 [Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.0.5)
 
