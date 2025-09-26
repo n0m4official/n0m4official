@@ -20,13 +20,13 @@ I build **modular tools, simulations, and games** — focused on **C#, C++, and 
 
 ### **1️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
-![PFD Sim](<img width="990" height="612" alt="Screenshot 2025-09-22 181840" src="https://github.com/user-attachments/assets/c4464538-59c9-41b7-b579-880a6a74a26b"/>)
+![PFD Sim](https://github.com/user-attachments/assets/c4464538-59c9-41b7-b579-880a6a74a26b)
 **Status:** 🔧 Active  
 [Release](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
 ### **2️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
-![Tetris](<img width="1440" height="657" alt="Screenshot 2025-09-24 170949" src="https://github.com/user-attachments/assets/d16694b5-cc0a-452e-9cd0-7fad4964c4f3"/>)  
+![Tetris](https://github.com/user-attachments/assets/d16694b5-cc0a-452e-9cd0-7fad4964c4f3)  
 **Status:** ✅ Complete  
 [Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.0.5)
 
@@ -58,7 +58,7 @@ Distributed coordination, simulated physics, and secure comms for multi-agent dr
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Dixon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathew%20Dixon-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat-dixon-425673257/?trk=opento_sprofile_topcard)
 Email given upon request
 
 ---
