@@ -20,7 +20,7 @@ I build **modular tools, simulations, and games** — focused on **C#, C++, and 
 
 ### **1️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.
-**Status:** 🔧 Active  
+**Status:** 🔧 Active
 [Release](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
 ### **2️⃣ Tetris (C++)**  
@@ -30,7 +30,7 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 
 ### **3️⃣ Drone Swarm**  
 Distributed coordination, simulated physics, and secure comms for multi-agent drone systems. 
-**Status:** ⚡ Upcoming
+**Status:** 🔧 Active
 
 ---
 
