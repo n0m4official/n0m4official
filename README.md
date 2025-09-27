@@ -26,7 +26,7 @@ Primary Flight Display simulator — realistic instrument rendering, HUD overlay
 ### **2️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.
 **Status:** ✅ Complete  
-[Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.0.5)
+[Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.1.0)
 
 ### **3️⃣ Drone Swarm**  
 Distributed coordination, simulated physics, and secure comms for multi-agent drone systems. 
