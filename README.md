@@ -28,15 +28,10 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 **Status:** ✅ Complete  
 [Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.1.5)
 
-### **3️⃣ Drone Swarm**  
-Distributed coordination, simulated physics, and secure comms for multi-agent drone systems. 
-**Status:** 🔧 Active  
-
 ---
 
 ### Additional Projects
-
-- **C3NT1P3D3** – Private / security-sensitive advanced simulation & testing framework (NDA-access only) 🔒  
+ 
 - **Aviation Load Calculator** – Aircraft weight & balance tool for accurate, safe operations (In active development)🔧
 
 ---
