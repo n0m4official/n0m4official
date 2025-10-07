@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Mat
+👋 Hi, I'm Mat
 
-Software developer, cybersecurity enthusiast, and maker of tools that fly (sometimes literally).  
-I build **modular tools, simulations, and games** — focused on **C#, C++, and systems-level engineering**.  
+Software developer, cybersecurity enthusiast, and maker of tools that fly (sometimes literally).
+I build **modular tools, simulations, and games** — focused on C#, C++, and systems-level engineering.
 
 ---
 
