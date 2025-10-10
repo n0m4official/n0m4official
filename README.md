@@ -34,6 +34,8 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
  
 - **Aviation Load Calculator** – Aircraft weight & balance tool for accurate, safe operations (In active development)🔧
 
+- **C3NT1P3D3** - Advanced cybersecurity vulnerability scanner (VIEWABLE ONLY UNDER NDA) 🔒
+
 ---
 
 ## 📈 GitHub Stats
