@@ -28,13 +28,10 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 **Status:** ✅ Complete  
 [Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.1.5)
 
----
-
-### Additional Projects
- 
-- **Aviation Load Calculator** – Aircraft weight & balance tool for accurate, safe operations (In active development)🔧
-
-- **C3NT1P3D3** - Advanced cybersecurity vulnerability scanner (VIEWABLE ONLY UNDER NDA) 🔒
+### **3️⃣ C3NT1P3D3 (C++)**
+Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.
+**Status:** 🔧 Active
+[Release](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.0.0)
 
 ---
 
