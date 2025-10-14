@@ -33,8 +33,8 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 ### **3️⃣ C3NT1P3D3 (C++)**
 Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.
 
-**Status:** 🔧Active
-[Release](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.0.0)
+**Status:** 🔧Active  
+[Release](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
 
 ---
 
