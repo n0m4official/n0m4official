@@ -61,5 +61,5 @@ Email given upon request
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-> “Precision isn’t just about rendering — it’s about realism.” — Mat (n0m4official)
+> “Code is like humor. When you have to explain it, it’s bad.” - Cory House  
+> “Precision isn’t just about rendering, it’s about realism.” - Mat (n0m4official)
