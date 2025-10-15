@@ -21,17 +21,17 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 ### **1️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
 **Status:** 🔧 Active  
-[Release](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
+[Release v1.2.0](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
 ### **2️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
 **Status:** ✅ Complete  
-[Release](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.1.5)
+[Release v1.1.5](https://github.com/n0m4official/CPP-Tetris/releases/tag/v1.1.5)
 
 ### **3️⃣ C3NT1P3D3 (C++)**
 Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.  
 **Status:** 🔧Active  
-[Release](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
+[Release v3.1.0](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
 
 ---
 
@@ -46,6 +46,12 @@ Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks
 - Distributed control for multi-agent systems (Drone Swarm)  
 - Flight-instrument fidelity & avionics-style telemetry (PFD Sim)  
 - Hardened, modular test frameworks for security-sensitive tooling (C3NT1P3D3)
+
+---
+
+## 🎯 Career Vision
+To contribute to secure, mission-critical systems — where software reliability, integrity, and performance directly support safety and innovation.
+I aim to merge cybersecurity expertise with aerospace and defense engineering, developing tools that protect and empower next-generation technology.
 
 ---
 
