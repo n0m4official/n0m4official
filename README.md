@@ -26,7 +26,7 @@ Primary Flight Display simulator — realistic instrument rendering, HUD overlay
 ### **2️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
 **Status:** ✅ Complete  
-[Release v2.0.0](https://github.com/n0m4official/CPP-Tetris/releases/tag/v2.0.0)
+[Release v2.0.5](https://github.com/n0m4official/CPP-Tetris/releases/tag/v2.0.5)
 
 ### **3️⃣ C3NT1P3D3 (C++)**
 Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.  
