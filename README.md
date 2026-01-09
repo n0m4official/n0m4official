@@ -11,6 +11,10 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ada](https://img.shields.io/badge/Ada-FFFFFF?style=for-the-badge&logo=ada&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-CCCCCC?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-AE28E0?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Focus Areas:** Ethical vulnerability simulation, embedded/avionics displays, real-time simulations, performance-critical C++ code, and modular software architecture.
 
@@ -32,13 +36,6 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.  
 **Status:** 🔧Active  
 [Release v3.1.0](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0m4official&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n0m4official&layout=compact&theme=radical)
 
 ---
 
