@@ -22,20 +22,26 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 
 ## 🚀 Featured Projects
 
-### **1️⃣ PFD Sim**  
+### **1️⃣ SS Bannockburn Predictive Search Model**
+Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
+**Status:** ✅ Complete  
+[Repository](https://github.com/n0m4official/Bannockburnsearch)
+
+### **2️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
 **Status:** 🔧 Active  
 [Release v1.2.0](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
-### **2️⃣ Tetris (C++)**  
+### **3️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
 **Status:** ✅ Complete  
 [Release v2.0.5](https://github.com/n0m4official/CPP-Tetris/releases/tag/v2.0.5)
 
-### **3️⃣ C3NT1P3D3 (C++)**
+### **4️⃣ C3NT1P3D3 (C++)**
 Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.  
 **Status:** 🔧Active  
 [Release v3.1.0](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
+
 
 ---
 
