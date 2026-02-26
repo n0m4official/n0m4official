@@ -25,7 +25,7 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 ### **1️⃣ SS Bannockburn Predictive Search Model**
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
-[Repository](https://github.com/n0m4official/Bannockburnsearch)
+Repository is not public for now
 
 ### **2️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
