@@ -22,33 +22,25 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 
 ## 🚀 Featured Projects
 
-### **1️⃣ SS Bannockburn Predictive Search Model**
+### **1️⃣ SpecterRCS**
+Simulates the radar cross section of any STL or OBJ file you put into it. Created based off the principles of the Echo software made by Lockheed in the 1970s and the physic published by Pyotr Ufimtsev published in 1962 (later translated into English in 1971).  
+**Status:** ✅ Complete (Still being improved)  
+[Release v1.0.0](https://github.com/n0m4official/Radar-Cross-Section-Simulation/releases/tag/V1.0.0)
+
+### **2️⃣ SS Bannockburn Predictive Search Model**
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
 Repository is not public for now
 
-### **2️⃣ PFD Sim**  
+### **3️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
 **Status:** ✅ Complete  
 [Release v1.2.0](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
-### **3️⃣ Tetris (C++)**  
+### **4️⃣ Tetris (C++)**  
 Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, well-tested codebase.  
 **Status:** ✅ Complete  
 [Release v2.0.6](https://github.com/n0m4official/CPP-Tetris/releases/tag/v2.0.6)
-
-### **4️⃣ C3NT1P3D3 (C++)**
-Advanced cybersecurity vulnerability scanner - flags vulnerabilities in networks and reports findings, does not exploit, only flags.  
-**Status:** ✅ Complete  
-[Release v3.1.0](https://github.com/n0m4official/C3NT1P3D3/releases/tag/v3.1.0)
-
-
----
-
-## 🌱 Currently Building / Learning
-- Distributed control for multi-agent systems (Drone Swarm)  
-- Flight-instrument fidelity & avionics-style telemetry (PFD Sim)  
-- Hardened, modular test frameworks for security-sensitive tooling (C3NT1P3D3)
 
 ---
 
