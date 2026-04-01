@@ -25,7 +25,7 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 ### **1️⃣ SpecterRCS**
 Simulates the radar cross section of any STL or OBJ file you put into it. Created based off the principles of the Echo software made by Lockheed in the 1970s and the physic published by Pyotr Ufimtsev published in 1962 (later translated into English in 1971).  
 **Status:** ✅ Complete (Still being improved)  
-[Release v1.0.0](https://github.com/n0m4official/SpecterRCS/releases/tag/V1.1.1)
+[Release v1.1.1](https://github.com/n0m4official/SpecterRCS/releases/tag/V1.1.1)
 
 ### **2️⃣ SS Bannockburn Predictive Search Model**
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
