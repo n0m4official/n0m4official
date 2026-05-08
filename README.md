@@ -30,7 +30,7 @@ Simulates the radar cross section of any STL or OBJ file you put into it. Create
 ### **2️⃣ SS Bannockburn Predictive Search Model**
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
-Repository is not public for now
+Repository is not public for now  
 [Academic Paper](bannockburn_academic_paper.pdf)
 
 ### **3️⃣ PFD Sim**  
