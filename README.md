@@ -31,6 +31,7 @@ Simulates the radar cross section of any STL or OBJ file you put into it. Create
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
 Repository is not public for now
+[Academic Paper](bannockburn_academic_paper.pdf)
 
 ### **3️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
