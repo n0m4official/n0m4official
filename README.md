@@ -16,7 +16,7 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 ![CSS](https://img.shields.io/badge/CSS-AE28E0?style=for-the-badge&logo=css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Focus Areas:** Ethical vulnerability simulation, embedded/avionics displays, real-time simulations, performance-critical C++ code, and modular software architecture.
+**Focus Areas:** Real-time physics simulations, embedded/avionics displays, performance-critical C++ code, and modular software architecture.
 
 ---
 
@@ -31,7 +31,7 @@ Simulates the radar cross section of any STL or OBJ file you put into it. Create
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
 Repository is not public for now  
-[Academic Paper](bannockburn_academic_paper.pdf)
+Academic Paper in progress
 
 ### **3️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
@@ -47,7 +47,7 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 
 ## 🎯 Career Vision
 To contribute to secure, mission-critical systems — where software reliability, integrity, and performance directly support safety and innovation.
-I aim to merge cybersecurity expertise with aerospace and defense engineering, developing tools that protect and empower next-generation technology.
+I aim to merge efficient real-time simulation expertise with aerospace and defense engineering, developing tools that protect and empower next-generation technology.
 
 ---
 
