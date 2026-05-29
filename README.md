@@ -5,7 +5,7 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 
 ---
 
-## 🛠️ Tech Snapshot
+## Tech Snapshot
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,7 @@ I build **modular tools, simulations, and games** — focused on C#, C++, and sy
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **1️⃣ SpecterRCS**
 Simulates the radar cross section of any STL or OBJ file you put into it. Created based off the principles of the Echo software made by Lockheed in the 1970s and the physic published by Pyotr Ufimtsev published in 1962 (later translated into English in 1971).  
@@ -45,13 +45,13 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 
 ---
 
-## 🎯 Career Vision
+## Career Vision
 To contribute to secure, mission-critical systems — where software reliability, integrity, and performance directly support safety and innovation.
 I aim to merge efficient real-time simulation expertise with aerospace and defense engineering, developing tools that protect and empower next-generation technology.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat-dixon-425673257/?trk=opento_sprofile_topcard)      
 Email given upon request
 
