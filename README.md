@@ -1,6 +1,6 @@
 👋 Hi, I'm Mat
 
-Software developer, cybersecurity enthusiast, and maker of tools that fly (sometimes literally).
+Software developer, avgeek, and maker of tools that fly (sometimes literally).
 I build **modular tools, simulations, and games** — focused on C#, C++, and systems-level engineering.
 
 ---
@@ -30,8 +30,7 @@ Simulates the radar cross section of any STL or OBJ file you put into it. Create
 ### **2️⃣ SS Bannockburn Predictive Search Model**
 Simulates vessel drift and structural failure under historical storm conditions, producing a high-probability search grid suitable for deep-water exploration.  
 **Status:** ✅ Complete  
-Repository is not public for now  
-Academic Paper in progress
+Repository is not public for now
 
 ### **3️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
@@ -45,17 +44,10 @@ Terminal-based Tetris with ANSI graphics, smooth input handling, and a compact, 
 
 ---
 
-## Career Vision
-To contribute to secure, mission-critical systems — where software reliability, integrity, and performance directly support safety and innovation.
-I aim to merge efficient real-time simulation expertise with aerospace and defense engineering, developing tools that protect and empower next-generation technology.
-
----
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mat-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat-dixon-425673257/?trk=opento_sprofile_topcard)      
 Email given upon request
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” - Cory House  
-> “Precision isn’t just about rendering, it’s about realism.” - Mat (n0m4official)
+> “Code is like humor. When you have to explain it, it’s bad.” - Cory House 
