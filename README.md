@@ -34,7 +34,7 @@ Repository is not public for now
 
 ### **3️⃣ PFD Sim**  
 Primary Flight Display simulator — realistic instrument rendering, HUD overlays, and accurate flight-data pipelines.  
-**Status:** ✅ Complete  
+**Status:** ✅ Complete (Messy but works)  
 [Release v1.2.0](https://github.com/n0m4official/Primary-Flight-Display-Simulation/releases/tag/v1.2.0)
 
 ### **4️⃣ Tetris (C++)**  
